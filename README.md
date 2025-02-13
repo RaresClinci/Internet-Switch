@@ -1,7 +1,6 @@
 
 ## Cerinta 1: Procesul de comutare
- La aceasta cerinta, am declarat un mac table ca dictionar si am
-tranzitionat pseudocodul pe ocw in cod python
+ La aceasta cerinta, am declarat un mac table ca dictionar si am implementat logica de transmitere
 
 ## Cerinta 2: VLAN
  Prima parte a rezolvari a presupus parsarea fisierelor config, rezultand
